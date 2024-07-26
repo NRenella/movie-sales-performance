@@ -26,7 +26,7 @@ Work in progress
 # Steps
 ## :x: Analyse Requirements
 
-:x: Collect Requirements
+:heavy_check_mark: Collect Requirements
 
 :x: Choose the Right Charts
 
@@ -54,13 +54,13 @@ Work in progress
 
 :x: Format
 
-&nbsp; :x: Remove Lines & Grids
+&nbsp; &nbsp; &nbsp; :x: Remove Lines & Grids
 
-&nbsp; :x: Clean up Axis & Headers
+&nbsp; &nbsp; &nbsp; :x: Clean up Axis & Headers
 
-&nbsp; :x: Coloring
+&nbsp; &nbsp; &nbsp; :x: Coloring
 
-&nbsp; :x: Tooltip
+&nbsp; &nbsp; &nbsp; :x: Tooltip
 
 ## :x: Build Dashboard
 
@@ -72,15 +72,15 @@ Work in progress
 
 :x: Format
 
-&nbsp; :x: Distribute Content "Evenly"
+&nbsp; &nbsp; &nbsp; :x: Distribute Content "Evenly"
 
-&nbsp; :x: Format Colors, Sizes...etc
+&nbsp; &nbsp; &nbsp; :x: Format Colors, Sizes...etc
 
-&nbsp; :x: Fit "Entire View"
+&nbsp; &nbsp; &nbsp; :x: Fit "Entire View"
 
-&nbsp; :x: Add Legends
+&nbsp; &nbsp; &nbsp; :x: Add Legends
 
-&nbsp; :x: Add Spaces/Padding
+&nbsp; &nbsp; &nbsp; :x: Add Spaces/Padding
 
 :x: Add Filters
 
