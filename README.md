@@ -9,7 +9,7 @@ I used Python, Tableau, Excel, and Kaggle for this project.
 
 Python was used for data cleaning and formating.
 
-The Movie Data can be found here: [Kaggle](https://www.kaggle.com/datasets/arashnic/cinema-ticket/data)
+The Movie Data can be found here: [Kaggle](https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies)
 
 Tableau was used for visualizing the data as seen above
 
@@ -24,15 +24,15 @@ Send me any suggestions at: NTRenella@gmail.com
 Work in progress
 
 # Steps
-## :x: Analyse Requirements
+## :heavy_check_mark: Analyse Requirements
 
 :heavy_check_mark: Collect Requirements
 
-:x: Choose the Right Charts
+:heavy_check_mark: Choose the Right Charts
 
-:x: Draw Mockups
+:heavy_check_mark: Draw Mockups
 
-:x: Choose Colors
+:heavy_check_mark: Choose Colors
 
 ## :x: Build The Data Source
 
