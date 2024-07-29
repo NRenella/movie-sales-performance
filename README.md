@@ -34,17 +34,17 @@ Work in progress
 
 :heavy_check_mark: Choose Colors
 
-## :x: Build The Data Source
+## :heavy_check_mark: Build The Data Source
 
-:x: Connect Data
+:heavy_check_mark: Connect Data
 
-:x: Create Data Model
+:heavy_check_mark: Create Data Model
 
-:x: Rename Fields/Tables
+:heavy_check_mark: Rename Fields/Tables
 
-:x: Check Data Types
+:heavy_check_mark: Check Data Types
 
-:x: Understand Data
+:heavy_check_mark: Understand Data
 
 ## :x: Build Charts
 
