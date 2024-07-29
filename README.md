@@ -46,21 +46,21 @@ Work in progress
 
 :heavy_check_mark: Understand Data
 
-## :x: Build Charts
+## :heavy_check_mark: Build Charts
 
-:x: Create Calculated Fields & Test
+:heavy_check_mark: Create Calculated Fields & Test
 
-:x: Build Chart
+:heavy_check_mark: Build Chart
 
-:x: Format
+:heavy_check_mark: Format
 
-&nbsp; &nbsp; &nbsp; :x: Remove Lines & Grids
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Remove Lines & Grids
 
-&nbsp; &nbsp; &nbsp; :x: Clean up Axis & Headers
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Clean up Axis & Headers
 
-&nbsp; &nbsp; &nbsp; :x: Coloring
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Coloring
 
-&nbsp; &nbsp; &nbsp; :x: Tooltip
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Tooltip
 
 ## :x: Build Dashboard
 
