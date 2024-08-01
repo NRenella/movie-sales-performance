@@ -72,13 +72,13 @@ Work in progress
 
 :x: Format
 
-&nbsp; &nbsp; &nbsp; :x: Distribute Content "Evenly"
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Distribute Content "Evenly"
 
-&nbsp; &nbsp; &nbsp; :x: Format Colors, Sizes...etc
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Format Colors, Sizes...etc
 
-&nbsp; &nbsp; &nbsp; :x: Fit "Entire View"
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Fit "Entire View"
 
-&nbsp; &nbsp; &nbsp; :x: Add Legends
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Add Legends
 
 &nbsp; &nbsp; &nbsp; :x: Add Spaces/Padding
 
