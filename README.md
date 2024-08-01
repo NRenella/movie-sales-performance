@@ -64,9 +64,9 @@ Work in progress
 
 ## :x: Build Dashboard
 
-:x: Draw Mockups for Containers
+:heavy_check_mark: Draw Mockups for Containers
 
-:x: Build Container Structure
+:heavy_check_mark: Build Container Structure
 
 :x: Put all Charts together
 
