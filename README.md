@@ -70,7 +70,7 @@ Work in progress
 
 :heavy_check_mark: Put all Charts together
 
-:x: Format
+:heavy_check_mark: Format
 
 &nbsp; &nbsp; &nbsp; :heavy_check_mark: Distribute Content "Evenly"
 
