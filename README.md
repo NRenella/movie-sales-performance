@@ -68,7 +68,7 @@ Work in progress
 
 :heavy_check_mark: Build Container Structure
 
-:x: Put all Charts together
+:heavy_check_mark: Put all Charts together
 
 :x: Format
 
