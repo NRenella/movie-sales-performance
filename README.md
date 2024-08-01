@@ -1,8 +1,12 @@
 # Movie Sales Performance
 ## Purpose
-I have a passion for data and movies, this project tackles the sales performance of tickets from 2020.
+I have a passion for data and movies, this project tackles the sales performance of tickets from 2023-2020.
 
-This project will be broken down into steps which can be seen below.
+The Dashboard can be found here: [Dashboard](https://public.tableau.com/app/profile/noah.renella/viz/moviesalesdata/SalesDashboard)
+
+This project will be broken down into steps which can be seen below. 
+
+Screenshot of the dashboard can be seen below.
 
 ## Tools
 I used Python, Tableau, Excel, and Kaggle for this project.
@@ -21,7 +25,7 @@ Send me any suggestions at: NTRenella@gmail.com
 
 ## Dashboard Screenshot
 
-Work in progress
+![screenshot](https://github.com/NRenella/movie-sales-performance/blob/main/Sales%20Dashboard.png)
 
 # Steps
 ## :heavy_check_mark: Analyse Requirements
