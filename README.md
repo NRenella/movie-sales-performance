@@ -62,7 +62,7 @@ Work in progress
 
 &nbsp; &nbsp; &nbsp; :heavy_check_mark: Tooltip
 
-## :x: Build Dashboard
+## :heavy_check_mark: Build Dashboard
 
 :heavy_check_mark: Draw Mockups for Containers
 
@@ -80,8 +80,8 @@ Work in progress
 
 &nbsp; &nbsp; &nbsp; :heavy_check_mark: Add Legends
 
-&nbsp; &nbsp; &nbsp; :x: Add Spaces/Padding
+&nbsp; &nbsp; &nbsp; :heavy_check_mark: Add Spaces/Padding
 
-:x: Add Filters
+:heavy_check_mark: Add Filters
 
-:x: Add Icons
+:heavy_check_mark: Add Icons
